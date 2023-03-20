@@ -1,0 +1,15 @@
+.Loading, .Empty, .Error {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Subtitle {
+    color: #6c757d;
+}
+
+.Wait, .Load, .Angry {
+    width: 150px;
+}

@@ -1,0 +1,10 @@
+.Counter {
+    text-align: center;
+    color: #212529;
+    margin: 0px;
+    padding: 30px;
+}
+
+.Counter--loading {
+    opacity: 25%;
+}
